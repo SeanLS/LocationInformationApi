@@ -15,7 +15,7 @@ In development.
 ## Technologies
 
 ### 3rd party libraries
-* libphonenumber-csharp: 8.12.27 : https://www.nuget.org/packages/libphonenumber-csharp
+* libphonenumber-csharp: 8.12.28 : https://www.nuget.org/packages/libphonenumber-csharp
 * Postal Codes: https://gist.github.com/matthewbednarski/4d15c7f50258b82e2d7e#file-postal-codes-json
 
 ### Core libraries
