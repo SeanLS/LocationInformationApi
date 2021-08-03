@@ -31,7 +31,7 @@ In development.
 * Swashbuckle.AspNetCore: 6.1.4
 
 ## Setup
-To run this project install and run using Visual Studio or Visual Studio Code.
+To run this project install and run using Visual Studio 2019 or Visual Studio Code.
 
 ## Swagger
 Swagger is used to expose endpoints and provide a testing interface.
